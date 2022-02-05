@@ -12,4 +12,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 )
 
-replace github.com/ava-labs/avalanchego v1.7.4 => github.com/archisgore/avalanchego v1.7.4
+replace (
+github.com/ava-labs/avalanchego v1.7.4 => github.com/archisgore/avalanchego v1.7.4
+github.com/ava-labs/timestampvm => github.com/archisgore/timestampvm
+)
