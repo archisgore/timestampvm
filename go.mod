@@ -1,4 +1,4 @@
-module github.com/ava-labs/timestampvm
+module github.com/archisgore/timestampvm
 
 go 1.16
 
