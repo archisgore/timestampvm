@@ -10,8 +10,8 @@ import (
 	"github.com/hashicorp/go-plugin"
 	log "github.com/inconshreveable/log15"
 
-	"github.com/archisgore/timestampvm/timestampvm"
 	"github.com/ava-labs/avalanchego/vms/rpcchainvm"
+	"github.com/ava-labs/timestampvm/timestampvm"
 )
 
 func main() {
