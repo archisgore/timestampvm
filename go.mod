@@ -13,6 +13,6 @@ require (
 )
 
 replace (
-github.com/ava-labs/avalanchego v1.7.4 => github.com/archisgore/avalanchego v1.7.4
-github.com/ava-labs/timestampvm => github.com/archisgore/timestampvm
+	github.com/ava-labs/avalanchego v1.7.4 => github.com/archisgore/avalanchego v1.7.4
+	github.com/ava-labs/timestampvm v1.2.5 => github.com/archisgore/timestampvm v1.2.5
 )
